@@ -15,3 +15,5 @@ a tools for over the wall
 5、 随意打开一个网页，点击`SwitchyOmega`的图标，选择`自动切换`这时候不能打开的网页也能打开了
 ![Image text](3.png)
 
+6、 现在打开YouTube测试一下，能正常打开无压力
+![Image text](4.png)
